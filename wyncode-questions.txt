@@ -1,0 +1,10 @@
+1. What is Wyncode Academy?
+Wyncode Academy is a development boot camp immersing ambitious individuals in a demanding and inspiring learning environment engineered to develop successful coders with business acumen.
+We believe in promoting programming literacy using a disruptive education model and feel that a boot camp environment is the best way to learn practical and relevant coding skills quickly.
+
+2. Do I need to have previous programming experience?
+No. Previous experience is not necessary. Some of our students have never programmed before while others might have experience in HTML, CSS or basic Ruby or JavaScript through online courses who are looking for a way to really learn these skills.
+
+3. Do you have scholarships or financing available?
+Wyncode currently offers two types of scholarships. A $1000 Women of Wyncode scholarship and a $500 military scholarship.
+We have partnered with three lenders to provide loans to our students. They are Pave, Climb, and Skills Fund. (Scholarships and Climb financing are only available for our 9-week full-time web development course.)
