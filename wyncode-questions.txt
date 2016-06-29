@@ -1,3 +1,5 @@
+#comment - ktblk
+
 1. What is Wyncode Academy?
 Wyncode Academy is a development boot camp immersing ambitious individuals in a demanding and inspiring learning environment engineered to develop successful coders with business acumen.
 We believe in promoting programming literacy using a disruptive education model and feel that a boot camp environment is the best way to learn practical and relevant coding skills quickly.
